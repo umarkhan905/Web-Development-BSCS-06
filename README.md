@@ -13,6 +13,7 @@ This is the repository for BSCS-06 students to access all the **Source Code** of
 - Create a **Website** using **HTML** only which have included:
   - Heading
   - Horizontal Line
+  - Tex slider
   - Your Introduction Paragraph
   - Use **Bold**, _Italic_ and Underline
   - Add One Image related to Web Development
